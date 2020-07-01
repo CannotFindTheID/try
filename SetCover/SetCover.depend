@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589343144 source:c:\users\diandian\desktop\try\setcover\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<chrono>
+
